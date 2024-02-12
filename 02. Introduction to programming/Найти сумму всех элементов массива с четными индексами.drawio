@@ -1,0 +1,92 @@
+<mxfile host="app.diagrams.net" modified="2023-10-20T07:31:58.220Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="dFj1yZBI-lKSEjq7uE8D" version="22.0.5" type="google" pages="3">
+  <diagram name="Страница — 1" id="dMQwLhEyR6IjYHKLwD6l">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="y9IpWmfuo_wpuVKA5mXV-1" value="&lt;span style=&quot;color: rgb(6, 10, 45); font-family: PTRootUIWebMedium; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.14px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(212, 213, 222); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Найти сумму всех элементов массива &lt;/span&gt;&lt;span style=&quot;color: rgb(6, 10, 45); font-family: PTRootUIWebMedium; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.14px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(212, 213, 222); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&#xa;&lt;/span&gt;&lt;span style=&quot;color: rgb(6, 10, 45); font-family: PTRootUIWebMedium; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: 0.14px; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(212, 213, 222); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;с четными индексами.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y9IpWmfuo_wpuVKA5mXV-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y9IpWmfuo_wpuVKA5mXV-2" target="y9IpWmfuo_wpuVKA5mXV-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y9IpWmfuo_wpuVKA5mXV-2" value="start" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y9IpWmfuo_wpuVKA5mXV-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y9IpWmfuo_wpuVKA5mXV-3" target="y9IpWmfuo_wpuVKA5mXV-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y9IpWmfuo_wpuVKA5mXV-3" value="number" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y9IpWmfuo_wpuVKA5mXV-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y9IpWmfuo_wpuVKA5mXV-5" target="y9IpWmfuo_wpuVKA5mXV-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y9IpWmfuo_wpuVKA5mXV-5" value="len = number.lenght&lt;br&gt;sum = 0&lt;br&gt;index = 0" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y9IpWmfuo_wpuVKA5mXV-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y9IpWmfuo_wpuVKA5mXV-7" target="y9IpWmfuo_wpuVKA5mXV-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y9IpWmfuo_wpuVKA5mXV-11" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="y9IpWmfuo_wpuVKA5mXV-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y9IpWmfuo_wpuVKA5mXV-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y9IpWmfuo_wpuVKA5mXV-7" target="y9IpWmfuo_wpuVKA5mXV-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y9IpWmfuo_wpuVKA5mXV-15" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="y9IpWmfuo_wpuVKA5mXV-14">
+          <mxGeometry y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y9IpWmfuo_wpuVKA5mXV-7" value="index &amp;lt; len" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y9IpWmfuo_wpuVKA5mXV-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="y9IpWmfuo_wpuVKA5mXV-9" target="y9IpWmfuo_wpuVKA5mXV-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="215" y="270" />
+              <mxPoint x="440" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y9IpWmfuo_wpuVKA5mXV-9" value="sum = sum + number[index]&lt;br&gt;index = index + 2" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="300" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="y9IpWmfuo_wpuVKA5mXV-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y9IpWmfuo_wpuVKA5mXV-13" target="y9IpWmfuo_wpuVKA5mXV-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y9IpWmfuo_wpuVKA5mXV-13" value="sum" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="290" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y9IpWmfuo_wpuVKA5mXV-16" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="hXPOrqXnQB95cF0nuHZS" name="task 1">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ICz3z7bqrMpe7qEZKJFQ-1" value="&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(44, 45, 48); font-family: Onest, Roboto, &amp;quot;San Francisco&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial; font-size: 15px;&quot;&gt;Нахождение индексов максимального и минимального элемента массива&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-820" y="-1160" width="440" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="PO5xf4040jnmO31OGj1g" name="task 2">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZZdLDMhqPmf3tNM01bhW-1" value="&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(44, 45, 48); font-family: Onest, Roboto, &amp;quot;San Francisco&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial; font-size: 15px;&quot;&gt;Задание на «разворот» массива. Нужно перевернуть массив и записать его в обратном порядке&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="560" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,40 @@
+## Введение в программирование (семинары)
+
+[Урок 1. Создаём и записываем свои первые алгоритмы](https://gb.ru/lessons/384564)
+- [Запись вебинара](https://gbcdn.mrgcdn.ru/uploads/record/287681/attachment/3daf832c2ab0b063beb47faeed260da9.mp4)
+- [Презентация](https://gbcdn.mrgcdn.ru/uploads/asset/3712578/attachment/8c578ece9223cce7895849cfcf54c0c2.pdf)
+- [Презентация с семинара](https://docs.google.com/presentation/d/1-3eBwSjSl98Ugr3KsvwicbUiDpIgDuojWLHJEh_jbP8/edit?pli=1#slide=id.g13622dc156e_0_572)
+- [HomeWork](https://gb.ru/lessons/384564/homework)
+
+[Урок 2. Решаем задачи с массивами](https://gb.ru/lessons/384565)
+- [Запись вебинара](https://gbcdn.mrgcdn.ru/uploads/record/288562/attachment/e6dbeca27002177cbfc89881ca2f1b33.mp4)
+- [Презентация](https://gbcdn.mrgcdn.ru/uploads/asset/5218555/attachment/b3912e9c68720b20bfbddbed22ab1402.pdf)
+- [Презентация с семинара](https://docs.google.com/presentation/d/1PmVXLTs_WTpVmi05QWAsAKMxF2pARAieFw3HqUv22Ck/edit#slide=id.g1347c153eec_0_320)
+- [HomeWork](https://gb.ru/lessons/384565/homework)
+
+[Урок 3. Сравниваем разные алгоритмы решения задач](https://gb.ru/lessons/384566)
+- [Запись вебинара](https://gbcdn.mrgcdn.ru/uploads/record/289523/attachment/11a80aeb44dfd386645a88a5bf09ea2c.mp4)
+- [Презентация](https://gbcdn.mrgcdn.ru/uploads/asset/3712581/attachment/2b7c661f7d025231ed1fbe8ca2ba13c3.pdf)
+- [Презентация с семинара](https://docs.google.com/presentation/d/1V5GihJxWUKwU3awv4kI701piTEnGWvki1AYu6PD3-7U/edit?usp=sharing)
+- [Задание HomeWork](https://gbcdn.mrgcdn.ru/uploads/asset/3625262/attachment/cfe5a0a7e8e22b0020c3802538dc1de5.pdf)
+- [HomeWork](https://gb.ru/lessons/384566/homework)
+
+## Введение в программирование (лекции)
+
+[Урок 1. Что такое программирование и языки программирования](https://gb.ru/lessons/371290)
+- [Запись вебинара](https://gbcdn.mrgcdn.ru/uploads/record/305879/attachment/ca9f8de712ba02ca7f6631ade167b4ca.mp4)
+- [Презентация](https://gbcdn.mrgcdn.ru/uploads/asset/5788380/attachment/cb8800e047fbd842a39affd99d31a9c1.pdf)
+- [Конспект](https://gbcdn.mrgcdn.ru/uploads/asset/5644089/attachment/4273c86c4c5395b777a26e3924c310fa.pdf)
+- [Транскриб](https://gbcdn.mrgcdn.ru/uploads/asset/4061734/attachment/f9d644db9c1add9ce29b325a84d7824a.pdf)
+
+[Урок 2. Базовые алгоритмы и массив как структура данных](https://gb.ru/lessons/371291)
+- [Запись вебинара](https://gbcdn.mrgcdn.ru/uploads/record/266546/attachment/92e5d63a535f521a25c7d82e7582d011.mp4)
+- [Презентация](https://gbcdn.mrgcdn.ru/uploads/asset/3333478/attachment/0787d5e7e0e949e224ee2bddac019370.pdf)
+- [Конспект](https://gbcdn.mrgcdn.ru/uploads/asset/3915453/attachment/2ee5cd1028e4fdc6633c680f3443a9c9.pdf)
+- [Транскриб](https://gbcdn.mrgcdn.ru/uploads/asset/4061742/attachment/ed9c4ff268714c4c836469aa239de05b.pdf)
+
+[Урок 3. Сложность и стоимость алгоритмов](https://gb.ru/lessons/371292)
+- [Запись вебинара](https://gbcdn.mrgcdn.ru/uploads/record/266547/attachment/bd197db50e7c97da47d5340844ed922f.mp4)
+- [Презентация](https://gbcdn.mrgcdn.ru/uploads/asset/3333480/attachment/33ab4d0195cc489c47ccd30429c5d241.pdf)
+- [Конспект](https://gbcdn.mrgcdn.ru/uploads/asset/3915455/attachment/357e7f66330206911b7b6ecdc8e625af.pdf)
+- [Транскриб](https://gbcdn.mrgcdn.ru/uploads/asset/4061746/attachment/f9db7791ee7f29c410c2dde6404484a9.pdf)
