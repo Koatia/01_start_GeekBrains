@@ -32,6 +32,6 @@ print(db.select_all_worker())
 print("=====")
 
 for item in db.report():
-	print((item[0], item[2]))
+    print((item[0], item[2]))
 
 print("done")

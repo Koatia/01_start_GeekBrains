@@ -11,27 +11,27 @@ SOCIAL_SECURITY_RATE = 30.0
 
 # Функции
 def calculate_cost(
-		hours_worked, hourly_rate, social_security_rate=SOCIAL_SECURITY_RATE
+        hours_worked, hourly_rate, social_security_rate=SOCIAL_SECURITY_RATE
 ):
-	gross_pay = hours_worked * hourly_rate
-	social_security = gross_pay * social_security_rate / 100.0
-	net_pay = gross_pay - social_security
-	return gross_pay, social_security, net_pay
+    gross_pay = hours_worked * hourly_rate
+    social_security = gross_pay * social_security_rate / 100.0
+    net_pay = gross_pay - social_security
+    return gross_pay, social_security, net_pay
 
 
 def calculate():
-	hours = float(HOURS_ENTRY.get())
-	rate = float(RATE_ENTRY.get())
+    hours = float(HOURS_ENTRY.get())
+    rate = float(RATE_ENTRY.get())
 
-	gross, social, net = calculate_cost(hours, rate)
+    gross, social, net = calculate_cost(hours, rate)
 
-	RESULT_LABEL[
-		"text"
-	] = f"""
-	Брутто: {gross:.2f} руб.
-	Отчисления: {social:.2f} руб.
-	Нетто: {net:.2f} руб.
-	"""
+    RESULT_LABEL[
+        "text"
+    ] = f"""
+    Брутто: {gross:.2f} руб.
+    Отчисления: {social:.2f} руб.
+    Нетто: {net:.2f} руб.
+    """
 
 
 # Интерфейс
